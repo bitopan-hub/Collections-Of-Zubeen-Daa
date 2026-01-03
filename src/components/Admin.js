@@ -106,7 +106,7 @@ function Admin() {
         <button onClick={handleLogin}>Login</button>
 
         <p style={{ marginTop: "10px", fontSize: "13px", opacity: 0.8 }}>
-          Demo Login → <strong>Username: Bitopan / Password: Bitopan123</strong>
+          Demo Login → <strong>Username: Bitopan / Password: Bito123</strong>
         </p>
       </div>
     );
