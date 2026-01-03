@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Collections-Of-Zubeen-Daa/static/css/main.84bd31a1.css",
+    "main.js": "/Collections-Of-Zubeen-Daa/static/js/main.c270eabe.js",
+    "index.html": "/Collections-Of-Zubeen-Daa/index.html",
+    "main.84bd31a1.css.map": "/Collections-Of-Zubeen-Daa/static/css/main.84bd31a1.css.map",
+    "main.c270eabe.js.map": "/Collections-Of-Zubeen-Daa/static/js/main.c270eabe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bd31a1.css",
+    "static/js/main.c270eabe.js"
+  ]
+}
