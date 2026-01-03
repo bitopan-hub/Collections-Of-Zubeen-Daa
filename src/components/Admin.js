@@ -28,7 +28,7 @@ function Admin() {
   /* ---------- LOGIN HANDLER ---------- */
   const handleLogin = () => {
     // simple hardcoded credentials (for project/viva)
-    if (username === "admin" && password === "admin123") {
+    if (username === "Bitopan" && password === "Bito123") {
       setIsLoggedIn(true);
       localStorage.setItem("adminLoggedIn", "true");
     } else {
@@ -106,7 +106,7 @@ function Admin() {
         <button onClick={handleLogin}>Login</button>
 
         <p style={{ marginTop: "10px", fontSize: "13px", opacity: 0.8 }}>
-          Demo Login → <strong>Username: admin / Password: admin123</strong>
+          Demo Login → <strong>Username: Bitopan / Password: Bitopan123</strong>
         </p>
       </div>
     );
